@@ -1,0 +1,39 @@
+#msg-flash{
+    position: absolute;
+    top: 50;
+    z-index: 1000;
+    width: 100%;
+    padding: 10px;
+    text-align: center!important;
+}
+
+.titre{
+    color: dodgerblue;
+}
+
+footer{
+    background-color: rgba(0, 0, 0, 0.884);
+    color: grey;
+position: relative;
+bottom: 0;
+margin: 25px 0 0 0;
+width: 100%;
+}
+
+.edit{
+    position: absolute;
+    top: 0;
+    right: 0;
+    margin: 5px;
+}
+
+.delete{
+    position: absolute;
+    top: 0;
+    right: 50px;
+    margin: 5px;
+}
+
+.card-title{
+    margin-top: 50px!important;
+}
